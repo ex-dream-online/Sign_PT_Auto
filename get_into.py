@@ -3,7 +3,7 @@
 # @Time : 2023/4/28 17:50
 # @File : get_into.py
 # @Python Version : Python3.10
-# @Core :
+# @Core : 第一次使用将自己的数据写入json，主函数从外部读取json获取参数
 
 import json
 import os
